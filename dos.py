@@ -2,8 +2,8 @@
 
 from socket import *
 import time
-print"----------[my cahannel:]----------"
-print"[https://rubika.ir/creator_hacker_ravani]"
+print"----------[im M0BIN-DAN]----------"
+
 
 u = raw_input("Enter the ip = ")
 
